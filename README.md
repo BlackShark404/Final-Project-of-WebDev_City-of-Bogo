@@ -17,19 +17,31 @@ Create content that appeals to both local and international tourists.
 Each group member will be responsible for designing and implementing one of the pages of the website, ensuring they focus on their assigned content.
 During the presentation, each member will explain the page they created, the design choices, and the technical implementation.
 Note: Landing page is a collaboration, while the other pages should be created by an individual. If your group has 4 members, the 4 members can work on the landing page and contact form, while the other pages should be created by individual.
+
 4. Required Pages (Each group must include the following six pages):
 Landing Page – A welcoming introduction to the locality, featuring high-quality visuals and brief highlights.
 About Us (About the Municipality) – Provide an overview of the municipality, including historical and cultural context.
+
 Attractions (Tourist Spots) – List key tourist spots, with descriptions, photos, and practical information (e.g., location, opening hours).
+
 Events and Festivals – Information on local events and festivals, including dates and cultural significance.
+
 Food and Culture – Highlight local cuisine, popular dining spots, and cultural practices or traditions.
+
 Contact – Contact information, social media links, and an embedded interactive map showing the municipality.
+
 Landing Page – Serve as an entry point with a welcoming message and an overview of the municipality or city. This page should highlight important announcements, news updates, emergency notifications, and links to popular sections of the website.
+
 About Us (About the Municipality/Department)– Provide an in-depth look at the history, mission, and structure of the local government, as well as the municipality or city’s key values and vision.
+
 Services – Offer an organized list of public services available to residents, visitors, and businesses.
+
 Transparency and Governance –Promote transparency by providing access to public records, government budgets, meeting minutes, and policies.
+
 Events and Announcements – Keep residents informed about community events, holidays, and upcoming government-related activities.
+
 Contact Us – Provide residents and visitors with contact options for various government offices and a way to reach out for assistance.
+
 5. Presentation:
 Each group will create a PowerPoint or similar overview presentation with the following slides:
 Municipality/Department – A brief introduction to the chosen locality.
@@ -58,13 +70,16 @@ Group Grade: 100 points
 1. Design and Visual Appeal (20 points)
 Professional and visually appealing design with a cohesive look and feel.
 Consistent and effective use of colors, fonts, and images to reflect the theme of the chosen locality.
- 2.Content Quality (20 points)
+
+2.Content Quality (20 points)
 Relevance, accuracy, and thoroughness of content across all pages.
 Well-written meta descriptions and alt texts for SEO.
 The website should convey the spirit of the locality and make visitors excited to learn more.
+
 3. Responsiveness (15 points)
 The website layout is fully responsive across desktops, tablets, and mobile devices.
 Smooth navigation with no issues on various screen sizes.
+
 4. Functionality (15 points)
 All links, maps, and media elements work correctly.
 No broken links, and the user experience is seamless.
@@ -77,19 +92,24 @@ Code is clean, organized, and well-commented. Limited reliance on plugins or pre
 Unique presentation that creatively showcases the locality’s attractions, culture, food, and events.
 Thoughtful integration of media and design choices that enhance the tourism experience.
 Individual Grade: 50 points per member
+
 1. Page Design and Implementation (20 points)
 Quality of the individual’s assigned page in terms of design, layout, and content.
 The page should be visually appealing, functional, and informative.
+
 2. Contribution and Collaboration (10 points)
 Clear evidence of each member's involvement in the overall project.
 Active participation in discussions and group decisions.
 This point will be given by the project manager.
+
 3. Code Understanding and Explanation (10 points)
 Ability to explain the code used on their page, including HTML, CSS, JavaScript, and any frameworks.
 Demonstrate understanding of key design and development choices during the presentation.
+
 4. Presentation Skills (10 points)
 Ability to confidently explain their page’s design and implementation.
 Clear, concise, and engaging presentation during the group showcase.
+
 Additional Guidelines for Students:
 Research: Make sure to research the locality thoroughly and gather accurate and up-to-date information about attractions, events, and local culture.
 Testing: Test the website on various devices and browsers to ensure that it is fully functional and responsive.
