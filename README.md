@@ -20,29 +20,17 @@ Note: Landing page is a collaboration, while the other pages should be created b
 
 4. Required Pages (Each group must include the following six pages):
 
-Landing Page – A welcoming introduction to the locality, featuring high-quality visuals and brief highlights.
+Landing Page – A welcoming introduction to the locality, featuring high-quality visuals and brief highlights. (all)
 
-About Us (About the Municipality) – Provide an overview of the municipality, including historical and cultural context.
+About Us (About the Municipality) – Provide an overview of the municipality, including historical and cultural context.(all)
 
-Attractions (Tourist Spots) – List key tourist spots, with descriptions, photos, and practical information (e.g., location, opening hours).
+Attractions (Tourist Spots) – List key tourist spots, with descriptions, photos, and practical information (e.g., location, opening hours). (Khen)
 
-Events and Festivals – Information on local events and festivals, including dates and cultural significance.
+Events and Festivals – Information on local events and festivals, including dates and cultural significance. (Kent)
 
-Food and Culture – Highlight local cuisine, popular dining spots, and cultural practices or traditions.
+Food and Culture – Highlight local cuisine, popular dining spots, and cultural practices or traditions. (Arlon)
 
-Contact – Contact information, social media links, and an embedded interactive map showing the municipality.
-
-Landing Page – Serve as an entry point with a welcoming message and an overview of the municipality or city. This page should highlight important announcements, news updates, emergency notifications, and links to popular sections of the website.
-
-About Us (About the Municipality/Department)– Provide an in-depth look at the history, mission, and structure of the local government, as well as the municipality or city’s key values and vision.
-
-Services – Offer an organized list of public services available to residents, visitors, and businesses.
-
-Transparency and Governance –Promote transparency by providing access to public records, government budgets, meeting minutes, and policies.
-
-Events and Announcements – Keep residents informed about community events, holidays, and upcoming government-related activities.
-
-Contact Us – Provide residents and visitors with contact options for various government offices and a way to reach out for assistance.
+Contact – Contact information, social media links, and an embedded interactive map showing the municipality. (Janray)
 
 5. Presentation:
 Each group will create a PowerPoint or similar overview presentation with the following slides:
