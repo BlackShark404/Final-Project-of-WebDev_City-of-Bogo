@@ -22,15 +22,15 @@ Note: Landing page is a collaboration, while the other pages should be created b
 
 Landing Page – A welcoming introduction to the locality, featuring high-quality visuals and brief highlights. (all)
 
-About Us (About the Municipality) – Provide an overview of the municipality, including historical and cultural context.(all)
+About Us (About the Municipality/Department)– Provide an in-depth look at the history, mission, and structure of the local government, as well as the municipality or city’s key values and vision. (all)
 
-Attractions (Tourist Spots) – List key tourist spots, with descriptions, photos, and practical information (e.g., location, opening hours). (Khen)
+Services – Offer an organized list of public services available to residents, visitors, and businesses. (Kent)
 
-Events and Festivals – Information on local events and festivals, including dates and cultural significance. (Kent)
+Transparency and Governance –Promote transparency by providing access to public records, government budgets, meeting minutes, and policies. (Khen)
 
-Food and Culture – Highlight local cuisine, popular dining spots, and cultural practices or traditions. (Arlon)
+Events and Announcements – Keep residents informed about community events, holidays, and upcoming government-related activities. (Arlon)
 
-Contact – Contact information, social media links, and an embedded interactive map showing the municipality. (Janray)
+Contact Us – Provide residents and visitors with contact options for various government offices and a way to reach out for assistance. (Janray)
 
 5. Presentation:
 Each group will create a PowerPoint or similar overview presentation with the following slides:
