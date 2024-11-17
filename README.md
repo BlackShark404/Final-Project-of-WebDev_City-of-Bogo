@@ -19,7 +19,9 @@ During the presentation, each member will explain the page they created, the des
 Note: Landing page is a collaboration, while the other pages should be created by an individual. If your group has 4 members, the 4 members can work on the landing page and contact form, while the other pages should be created by individual.
 
 4. Required Pages (Each group must include the following six pages):
+
 Landing Page – A welcoming introduction to the locality, featuring high-quality visuals and brief highlights.
+
 About Us (About the Municipality) – Provide an overview of the municipality, including historical and cultural context.
 
 Attractions (Tourist Spots) – List key tourist spots, with descriptions, photos, and practical information (e.g., location, opening hours).
